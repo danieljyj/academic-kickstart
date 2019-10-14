@@ -32,6 +32,11 @@
   name = "Resume"
   url = "#"
   weight = 40
+  
+ [[main]]
+  name = "publication"
+  url = "#publications"
+  weight = 50
 
 
 

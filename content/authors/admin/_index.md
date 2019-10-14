@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: third-year student in Ecole Polytechnique
+role: third-year student at Ecole Polytechnique
 
 # Organizations/Affiliations
 organizations:
-- name: [École Polytechnique]
+- name: École Polytechnique
   url: "https://www.polytechnique.edu/en"
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,7 +23,7 @@ bio:
 interests:
 - Robotics
 - Computer Vision
-- Autonomous Driving
+- Autonomous Vehicles
 
 education:
   courses:
@@ -60,14 +60,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a third-year student in École Polytechnique, pursuing an engineering degree([Diplôme d'Ingénieur](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur)), 
+I am a third-year student at École Polytechnique, pursuing an engineering degree([Diplôme d'Ingénieur](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur)), 
 majoring in Applied Mathematics and Computer Science. Before coming to France, I learned Physics in Nanjing University, China, obtained my bachelor's degree with honours. 
 
 I am interested in artificial intelligence such as robotics and autonomous driving. I like doing research and aim at pursuing a doctor degree 
-after my engineering course in Ecole Polytechnique, for that I can learn more about artificial intelligence, 
-and maybe contribute a little to this domain.
-
-
+after my engineering course in Ecole Polytechnique. I wish I can contribute my efforts to the development of robotics or autonomous vehicles, 
+and I strongly believe that we can really make them come true within our generation. 
 
 
 

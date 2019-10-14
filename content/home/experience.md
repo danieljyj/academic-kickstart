@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-06-17"
   date_end = "2019-09-07"
   description = """
-  Responsibilities include:
+  Studied unsupervised learning of vehicle trajectory distribution in multi-lane highway using 
+  Tensorflow, developed a model that combined Boltzmann machine and Recurrent neural networks."""
   
-  """
 [[experience]]
   title = "Intern"
   company = "ezyData"
@@ -35,10 +35,8 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2018-07-11"
   date_end = "2018-08-31"
-  description = """
-  Responsibilities include:
+  description = """Carried out market research and benchmarking of the solutions of semantic data mapping."""
   
-  """
 [[experience]]
   title = "Research intern"
   company = "Beijing Computational Science Research Center"
@@ -46,6 +44,6 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2016-07-10"
   date_end = "2016-08-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Built a model of Rhex (six-legged robot) using C++ and an open source physics engine named Project Chrono."""
 
 +++
