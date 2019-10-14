@@ -13,4 +13,5 @@ header:
   caption: ""
   image: ""
 ---
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}
+#Download my CV{{% /staticref %}}
