@@ -2,14 +2,14 @@
 layout = "project"
 
 # Project title.
-title = "Beetle_walker"
+title = "robot-taxi fleetsizing"
 
 # Project summary to display on homepage.
 summary = """
-	Github repository of my work during internship in Beijing in summer 2016
+	Team scientific project 2018 - 2019, a simulation of robot-taxi service on JAVA. 
  """
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/danieljyj/beetle_walker"
+external_link = "https://github.com/danieljyj/PSC_Renault"
 +++
