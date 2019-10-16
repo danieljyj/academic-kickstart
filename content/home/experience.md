@@ -44,6 +44,6 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2016-07-10"
   date_end = "2016-08-31"
-  description = """Built a model of Rhex (six-legged robot) using C++ and an open source physics engine named Project Chrono."""
+  description = """Built a model of Rhex (hexapod robot) using C++ and an open source physics engine named Project Chrono."""
 
 +++
