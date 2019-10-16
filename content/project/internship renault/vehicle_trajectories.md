@@ -1,6 +1,6 @@
 +++
 layout = "project"
-
+featured = true
 # Project title.
 title = "RNNRBM_trajectories"
 
