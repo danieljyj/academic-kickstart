@@ -5,9 +5,9 @@ layout = "project"
 title = "robot-taxi fleetsizing"
 
 # Project summary to display on homepage.
-summary = """
+summary = "
 	Team scientific project 2018 - 2019, a simulation of robot-taxi service on JAVA. 
- """
+ "
 
 
 # Optional external URL for project (replaces project detail page).
