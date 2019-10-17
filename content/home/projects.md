@@ -11,7 +11,7 @@ featured = true
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  
+  featured = true
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -36,7 +36,7 @@ featured = true
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
-
+	featured = true
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
@@ -52,7 +52,7 @@ featured = true
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+  featured = true
   # Background color.
   # color = "navy"
   
