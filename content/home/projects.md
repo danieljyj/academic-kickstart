@@ -70,7 +70,7 @@ featured = true
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+ featured = true
  # CSS class.
  css_class = ""
 +++
