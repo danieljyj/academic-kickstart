@@ -5,9 +5,7 @@ featured = true
 title = "RNNRBM_trajectories"
 
 # Project summary to display on homepage.
-summary = "
-	Github repository of my work during internship in Renault in summer 2019
- "
+summary = "Github repository of my work during internship in Renault in summer 2019"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
