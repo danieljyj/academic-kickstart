@@ -30,15 +30,9 @@ education:
   - course: engineering degree 
     institution: Ecole Polytechnique
     year: 2017-2020
-	GPA: 3.83/4.0
   - course: BSc in Physics
     institution: Nanjing University
     year: 2013-2017
-  - course: The National College Entrance Exam(gaokao)
-    ShanDong Province
-    year: 2013
-	330/280000
-	
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

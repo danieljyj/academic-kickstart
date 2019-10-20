@@ -5,7 +5,7 @@ layout = "project"
 title = "Beetle_walker"
 
 # Project summary to display on homepage.
-summary = "Github repository of my work during internship in Beijing in summer 2016"
+summary = "hexapod robot modeling by Project Chrono"
 
 
 # Optional external URL for project (replaces project detail page).

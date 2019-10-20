@@ -5,7 +5,7 @@ featured = true
 title = "RNNRBM_trajectories"
 
 # Project summary to display on homepage.
-summary = "Github repository of my work during internship in Renault in summer 2019"
+summary = "RNN_RBM, vehicle trajectory pattern learning and denoising"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "static/imgvehicle_trajectories.jpg"
