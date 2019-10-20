@@ -63,7 +63,8 @@ user_groups:
 I am a third-year student at École Polytechnique, pursuing a degree in Engineering ([Diplôme d'Ingénieur](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur)), 
 majoring in Applied Mathematics and Computer Science. Before coming to France, I studied Physics in Nanjing University, obtained my bachelor's degree with honours. 
 
-I am interested in artificial intelligence such as robotics and autonomous vehicles. I like doing research and aim at pursuing a doctor's degree in these fields. I wish I can contribute my efforts to the development of robotics or autonomous vehicles, 
+I am interested in artificial intelligence such as robotics and autonomous vehicles. 
+I like doing research and aim at pursuing a doctor's degree. I wish I can contribute my efforts to the development of smarter robots and autonomous vehicles, 
 and I strongly believe that we can make them come true within our generation. 
 
 
